@@ -36,4 +36,4 @@ In the project directory, you can run the following commands.
     <br /><br />
 
 ## Credits and Attributions
-This application was creating following [Shaun]('https://github.com/iamshaunjp')'s [tutorial]("https://www.youtube.com/watch?v=vUe91uOx7R0") on [YouTube]("https://www.youtube.com/") .
+This application was creating following [Shaun Pelling]('https://github.com/iamshaunjp')'s [tutorial]("https://www.youtube.com/watch?v=vUe91uOx7R0") on [YouTube]("https://www.youtube.com/") .
