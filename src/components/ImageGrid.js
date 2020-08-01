@@ -14,6 +14,7 @@ export const ImageGrid = ({ setSelectedImage }) => {
                     layout
                     whileHover={{opacity:1}}
                     onClick = {() => setSelectedImage(doc.url)}
+                    style={{cursor:"pointer"}}
                 >
                     <motion.img src={doc.url} alt="Uploaded Images"
                         initial={{ opacity: 0 }}

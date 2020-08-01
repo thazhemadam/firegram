@@ -1,7 +1,13 @@
 # FireGram
 
-_FireGram_ is a simple React application that serves to act like a photo gallery for users. 
+_FireGram_ is a simple React application that serves to act like a photo gallery for users.
 <br /><br />
+
+## Environment Variables
+
+Environment variables required for this project are all with respect to the firebase config.<br />
+The environment variables must be specified in a file named _.env._development_ in the root of the application. <br />
+For convenience, a sample .env file describing what _.env.development_ must look like has also been created.
 
 ## Available Scripts
 
@@ -36,4 +42,4 @@ In the project directory, you can run the following commands.
     <br /><br />
 
 ## Credits and Attributions
-This application was creating following [Shaun Pelling]('https://github.com/iamshaunjp')'s [tutorial]("https://www.youtube.com/watch?v=vUe91uOx7R0") on [YouTube]("https://www.youtube.com/") .
+This application was created following [Shaun Pelling](https://github.com/iamshaunjp)'s [tutorial](https://www.youtube.com/watch?v=vUe91uOx7R0) on [YouTube](https://www.youtube.com/).
